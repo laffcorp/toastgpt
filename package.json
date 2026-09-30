@@ -1,8 +1,8 @@
 {
-  "name": "toastgpt",
+  "name": "toastergpt",
   "version": "1.0.0",
   "private": true,
-  "description": "ToastGPT™ by BenCorp.net — breakfast BEYOND THE ALGORITHM. Product site for bencorp.pro",
+  "description": "ToasterGPT™ by BenCorp.net — breakfast BEYOND THE ALGORITHM. Product site intended for toastergpt.org",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -2,14 +2,14 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://bencorp.pro'),
-  title: 'ToastGPT™ — BenCorp.net',
+  metadataBase: new URL('https://toastergpt.org'),
+  title: 'ToasterGPT™ — BenCorp.net',
   description:
     'The first connected toaster powered by an over-engineered, non-disabling large language model. Breakfast BEYOND THE ALGORITHM.',
   openGraph: {
-    title: 'ToastGPT™ by BenCorp.net',
+    title: 'ToasterGPT™ by BenCorp.net',
     description: 'It no longer just heats bread. It interrogates the bread.',
-    url: 'https://bencorp.pro',
+    url: 'https://toastergpt.org',
     siteName: 'BenCorp.net',
     type: 'website'
   }
